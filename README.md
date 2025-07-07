@@ -34,3 +34,4 @@ This project is bootstrapped with [Vite](https://vitejs.dev/guide/).
 
  ### 3. Can I use create-react-app instead Vite?
  Yes, you can use create-react-app instead Vite, the default workspace is loaded with Vite setup, you can remove the Vite dependencies, add create-react-app dependencies and update the scripts to start using create-react-app.
+# Mood-Journal
