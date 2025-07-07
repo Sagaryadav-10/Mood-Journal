@@ -23,11 +23,9 @@ Select your mood, add an optional note, and track your emotional journey day by 
 
 | Mood Picker | Mood History |
 |-------------|--------------|
-| ![Mood Picker](https://via.placeholder.com/300x200?text=Mood+Picker) | ![History](https://via.placeholder.com/300x200?text=Mood+History) |
+| ![Mood Picker](/home/workspace/my-project/photos/mood-picker copy.jpg) | ![History](/home/workspace/my-project/photos/mood History.jpg) |
 
-> *(Replace the placeholders above with actual screenshots if needed)*
-
----
+> 
 
 ## 🛠 Tech Stack
 
