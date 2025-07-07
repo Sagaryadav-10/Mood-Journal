@@ -23,11 +23,11 @@ Select your mood, add an optional note, and track your emotional journey day by 
 
 ### 🧠 Mood Selection
 
-![Mood Picker](./public/mood-picker.jpg)
+![Mood Picker](./mood-picker.jpg)
 
 ### 📅 Mood History
 
-![Mood History](./public/mood%20History.jpg)
+![Mood History](./mood-history.jpg)
 
 
 > 
