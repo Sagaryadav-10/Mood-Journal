@@ -23,7 +23,8 @@ Select your mood, add an optional note, and track your emotional journey day by 
 
 | Mood Picker | Mood History |
 |-------------|--------------|
-| ![Mood Picker](/home/workspace/my-project/photos/mood-picker copy.jpg) | ![History](/home/workspace/my-project/photos/mood History.jpg) |
+| ![Mood Picker](./public/mood-picker.jpg)
+ |![Mood History](./public/mood%20History.jpg) |
 
 > 
 
